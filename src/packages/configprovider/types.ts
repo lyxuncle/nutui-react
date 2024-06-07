@@ -536,6 +536,7 @@ export type NutCSSVariables =
   | 'nutuiProgressTextPositionBottom'
   | 'nutuiProgressTextBorderRadius'
   | 'nutuiPaginationColor'
+  | 'nutuiPaginationLiteColor'
   | 'nutuiPaginationFontSize'
   | 'nutuiPaginationItemBorderColor'
   | 'nutuiPaginationDisableColor'

@@ -772,6 +772,17 @@
         },
         {
           "version": "2.0.0",
+          "name": "LoadingPage",
+          "type": "component",
+          "cName": "全局加载",
+          "desc": "页面级加载图标，用于展示页面加载中的状态",
+          "sort": 15,
+          "show": true,
+          "taro": true,
+          "author": "lyxuncle"
+        },
+        {
+          "version": "2.0.0",
           "name": "NoticeBar",
           "type": "component",
           "cName": "公告栏",
